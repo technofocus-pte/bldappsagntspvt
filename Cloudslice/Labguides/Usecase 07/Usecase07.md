@@ -1,4 +1,4 @@
-# Use case 08 - Moderate text and images with content safety in Azure AI Content Safety Studio
+# Use case 07 - Moderate text and images with content safety in Azure AI Content Safety Studio
 
 **Introduction**
 
