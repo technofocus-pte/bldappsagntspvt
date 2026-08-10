@@ -63,11 +63,11 @@ privately curated data. It uses a combination of Microsoft’s AI and
 JSON-based indexes to provide fast, relevant search results.
 
 1.  Open a browser and login to Azure portal
-    at +++https://portal.azure.com/+++ with your credentials.
+    at !!https://portal.azure.com/!! with your credentials.
 
-    - Username - +++@lab.CloudPortalCredential(User1).Username+++
+    - Username - !!@lab.CloudPortalCredential(User1).Username!!
 
-    - Password - +++@lab.CloudPortalCredential(User1).AccessToken+++
+    - Password - !!@lab.CloudPortalCredential(User1).AccessToken!!
 
 ![Enter Your Username](./media/image1.png)
 
@@ -245,11 +245,11 @@ incorrect.](./media/image30.png)
 
     - Resource group - **AgenticAI (1)**
 
-    - Name - **+++agentic-2306402+++ (2)**
+    - Name - **!!agentic-2306402!! (2)**
 
     - Region - Keep region as default
 
-    - Default project name- **+++agentic-ai-project-2306402+++ (4)**
+    - Default project name- **!!agentic-ai-project-2306402!! (4)**
 
 ![](./media/image31.png)
 
@@ -318,12 +318,12 @@ dataflows, Data Factory pipelines, the notebooks, Power BI datasets, and
 reports.
 
 1.  Open your browser, navigate to the address bar, and type or paste
-    the following URL: +++https://app.fabric.microsoft.com/+++ then press
+    the following URL: !!https://app.fabric.microsoft.com/!! then press
     the **Enter** button and sign in with your credentials
 
-    - Username - +++@lab.CloudPortalCredential(User1).Username+++
+    - Username - !!@lab.CloudPortalCredential(User1).Username!!
 
-    - Password - +++@lab.CloudPortalCredential(User1).AccessToken+++
+    - Password - !!@lab.CloudPortalCredential(User1).AccessToken!!
 
 ![](./media/image44.png)
 
@@ -345,7 +345,7 @@ reports.
 5.  In the **Create a workspace** pane that appears on the right side,
     enter the following details, and click on the **Apply** button.
 
-    - Name: +++**Fabric IQ Ontology-2306402+++ (1)**
+    - Name: !!**Fabric IQ Ontology-2306402!! (1)**
 
     - Expand the **Advanced (2)** section to configure additional
       workspace settings.
@@ -449,7 +449,7 @@ incorrect.](./media/image53.png)
 immediately in the “+ New item” search results. If this occurs, sign out
 of the Fabric portal, sign in again, and retry the search.
 
-2.  Enter **+++NetworkOperationsOntology+++** **(1)** as the ontology name,
+2.  Enter **!!NetworkOperationsOntology!!** **(1)** as the ontology name,
     verify the workspace location, and then click **Create** **(2)** to
     create the ontology.
 
@@ -555,7 +555,7 @@ contextual connections in your data.
 2.  Enter the following relationship type details and then
     click **Create (4)**.
 
-    - **Relationship type name**: **+++Places+++ (1)**
+    - **Relationship type name**: **!!Places!! (1)**
 
     - **Source entity type**: **Customer (2)**
 
@@ -595,7 +595,7 @@ contextual connections in your data.
 7.  Enter the following relationship type details and then
     click **Create (4)**.
 
-    - **Relationship type name**: **+++Contains+++ (1)**
+    - **Relationship type name**: **!!Contains!! (1)**
 
     - **Source entity type**: **Order (2)**
 
@@ -624,7 +624,7 @@ contextual connections in your data.
 11. Enter the following relationship type details and then
     click **Create (4)**.
 
-    - **Relationship type name**: **+++hasSupportTicket+++ (1)**
+    - **Relationship type name**: **!!hasSupportTicket!! (1)**
 
     - **Source entity type**: **Order (2)**
 
@@ -655,7 +655,7 @@ contextual connections in your data.
 15. Enter the following relationship type details and then
     click **Create (4)**.
 
-    - **Relationship type name**: **+++hasTrackingEvent+++ (1)**
+    - **Relationship type name**: **!!hasTrackingEvent!! (1)**
 
     - **Source entity type**: **Order (2)**
 
@@ -685,7 +685,7 @@ contextual connections in your data.
 19. Enter the following relationship type details and then
     click **Create (4)**.
 
-    - **Relationship type name**: **+++mayLeadTo+++ (1)**
+    - **Relationship type name**: **!!mayLeadTo!! (1)**
 
     - **Source entity type**: **OrderItem (2)**
 
@@ -829,7 +829,7 @@ Support group by in GQL
     with a higher risk of stock depletion based on recent order
     activity.
 
-+++Predict which products may run out of stock soon.+++
+!!Predict which products may run out of stock soon.!!
 
 ![](./media/image111.png)
 
@@ -1005,13 +1005,13 @@ once and verify the status again.
 
 1.  Enter the following URL in the new tab to navigate to the Outlook:
 
-+++https://outlook.office.com/+++
+!!https://outlook.office.com/!!
 
 2.  Login with the provided user credentials provided below:
 
-    - Username - +++@lab.CloudPortalCredential(User1).Username+++
+    - Username - !!@lab.CloudPortalCredential(User1).Username!!
 
-    - Password - +++@lab.CloudPortalCredential(User1).AccessToken+++
+    - Password - !!@lab.CloudPortalCredential(User1).AccessToken!!
 
  3.  In Outlook, select **New mail (1)** to create a new email.
 
@@ -1107,21 +1107,21 @@ Review the latest Apex Legal email and Summarize.
 5.  A chat panel will open where you can enter your prompts. The agent
     will now respond
 
-+++Is this customer eligible for replacement based on our policy?+++
+!!Is this customer eligible for replacement based on our policy?!!
 
 ![](./media/image147.png)
 
 6.  A chat panel will open where you can enter your prompts. The agent
     will now respond.
 
-+++Should this issue be escalated?+++
+!!Should this issue be escalated?!!
 
 ![](./media/image148.png)
 
 7.  A chat panel will open where you can enter your prompts. The agent
     will now respond.
 
-+++Draft a customer response based on the issue and our communication standards.+++
+!!Draft a customer response based on the issue and our communication standards.!!
 
 ![](./media/image149.png)
 
