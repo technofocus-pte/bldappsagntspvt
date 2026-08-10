@@ -56,12 +56,12 @@ conversational experiences for real-world applications.
 
 ## Task 1: Deploy a model in a Microsoft Foundry project
 
-1.  Open a browser go to +++https://ai.azure.com+++ and sign in with
+1.  Open a browser go to !!https://ai.azure.com!! and sign in with
     your cloud slice account below.
 
-> Username: <+++@lab.CloudPortalCredential>(User1).Username+++
+> Username: <!!@lab.CloudPortalCredential>(User1).Username!!
 >
-> Password: <+++@lab.CloudPortalCredential>(User1). *TAP*+++
+> Password: <!!@lab.CloudPortalCredential>(User1). *TAP*!!
 >
 > ![A screenshot of a computer AI-generated content may be
 > incorrect.](./media/image1.png)
