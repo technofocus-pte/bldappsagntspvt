@@ -16,11 +16,11 @@ onboarding tasks end-to-end.
 
 **Solution architecture**
 
-[TABLE]
+![](./media/img1.png)
 
 **Agentic architecture**
 
-[TABLE]
+![](./media/img2.png)
 
 **Objective**
 
