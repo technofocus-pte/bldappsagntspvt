@@ -44,7 +44,7 @@ system** can:
 - **GitHub Account**: You are expected to have your own GitHub login
   credentials.  
   If you do not have an account, please create one by visiting:  
-  +++<https://github.com/signup?user_email=&source=form-home-signup+++>
+  !!<https://github.com/signup?user_email=&source=form-home-signup!!>
 
 ## Task 0: Understand the VM and the credentials
 
@@ -84,12 +84,12 @@ this Resource group
 
 ## Task 1: Register Service provider
 
-1.  Open a browser go to +++https://portal.azure.com+++ and sign in with
+1.  Open a browser go to !!https://portal.azure.com!! and sign in with
     your cloud slice account below.
 
-Username: <+++@lab.CloudPortalCredential>(User1).Username+++
+Username: <!!@lab.CloudPortalCredential>(User1).Username!!
 
-Password: <+++@lab.CloudPortalCredential>(User1). *TAP*+++
+Password: <!!@lab.CloudPortalCredential>(User1). *TAP*!!
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image5.png)
@@ -108,7 +108,7 @@ incorrect.](./media/image7.png)
 incorrect.](./media/image8.png)
 
 4.  Expand Settings from the left navigation menu. Click on **Resource
-    providers**, enter **+++** **Microsoft.CognitiveServices+++** and
+    providers**, enter **!!** **Microsoft.CognitiveServices!!** and
     select i,t, and then click **Register**.
 
 ![A screenshot of a computer AI-generated content may be
@@ -149,7 +149,7 @@ incorrect.](./media/image10.png)
 1.  Run the following command on the Terminal. It generates the code to
     copy. Copy the code and press Enter.
 
-+++azd auth login+++
+!!azd auth login!!
 
 ![](./media/image17.png)
 
@@ -170,14 +170,14 @@ incorrect.](./media/image10.png)
 
 4.  Run azd up - This will provision Azure resources
 
-+++azd up+++
+!!azd up!!
 
 ![](./media/image23.png)
 
 ![](./media/image24.png)
 
 5.  To create an environment for Azure resources, enter any name of your
-    choice and press enter (eg :+++ macaedevXXXX+++)
+    choice and press enter (eg :!! macaedevXXXX!!)
 
 ![](./media/image25.png)
 
@@ -224,7 +224,7 @@ incorrect.](./media/image10.png)
 10. Run the following command to upload the team configuration and index
     the sample data.
 
-+++bash infra/scripts/build_and_push_images.sh+++
+!!bash infra/scripts/build_and_push_images.sh!!
 
 ![](./media/image37.png)
 
@@ -234,7 +234,7 @@ incorrect.](./media/image10.png)
     infra/scripts/selecting_team_config_and_data.sh** from the project
     root to prepare and upload the required data.
 
-+++bash infra/scripts/selecting_team_config_and_data.sh +++
+!!bash infra/scripts/selecting_team_config_and_data.sh !!
 
 ![](./media/image38.png)
 
@@ -255,7 +255,7 @@ incorrect.](./media/image39.png)
 
 ## Task 5: Verify deployed resources in the Azure portal
 
-1.  Open a browser go to ++++++ and sign in with your cloud slice
+1.  Open a browser go to !!!! and sign in with your cloud slice
     account below.
 
 2.  Select **Resource groups**
