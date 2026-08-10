@@ -138,12 +138,12 @@ this Resource group
 
 ## Task 1: Register Service provider
 
-1.  Open a browser go to +++https://portal.azure.com+++ and sign in with
+1.  Open a browser go to !!https://portal.azure.com!! and sign in with
     your cloud slice account below.
 
-Username: <+++@lab.CloudPortalCredential>(User1).Username+++
+Username: <!!@lab.CloudPortalCredential>(User1).Username!!
 
-Password: <+++@lab.CloudPortalCredential>(User1). *TAP*+++
+Password: <!!@lab.CloudPortalCredential>(User1). *TAP*!!
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image4.png)
@@ -162,7 +162,7 @@ incorrect.](./media/image6.png)
 incorrect.](./media/image7.png)
 
 4.  Expand Settings from the left navigation menu. Click on **Resource
-    providers**, enter **+++** **Microsoft.CognitiveServices+++** and
+    providers**, enter **!!** **Microsoft.CognitiveServices!!** and
     select i,t, and then click **Register**.
 
 ![A screenshot of a computer AI-generated content may be
@@ -176,11 +176,11 @@ incorrect.](./media/image9.png)
 
 5.  Repeat the steps \#4 to register the following Resource provider.
 
-- +++**Microsoft.AlertsManagement**+++
+- !!**Microsoft.AlertsManagement**!!
 
 ## Task 2: Retrieve resource group name and location
 
-1.  Type in +++**Resource group+++** in the search bar and
+1.  Type in !!**Resource group!!** in the search bar and
     select **Resource groups**.
 
 > ![A screenshot of a computer AI-generated content may be
@@ -201,7 +201,7 @@ incorrect.](./media/image9.png)
 1.  Open your browser, navigate to the address bar, type or paste the
     following URL: 
 
-> +++https://github.com/technofocus-pte/code-solution-accelerator.git+++
+> !!https://github.com/technofocus-pte/code-solution-accelerator.git!!
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image14.png)
@@ -234,7 +234,7 @@ incorrect.](./media/image19.png)
 1.  Run the following command on the Terminal. It generates the code to
     copy. Copy the code and press Enter.
 
-+++azd auth login+++
+!!azd auth login!!
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image20.png)
@@ -262,12 +262,12 @@ incorrect.](./media/image25.png)
 7.  To create an environment for Azure resources, run the following
     Azure Developer CLI command.It asks you to enter environment name
     .Enter any name of your choice and press enter (eg
-    :+++cmsaappXXXX+++)
+    :!!cmsaappXXXX!!)
 
 **Note:** When creating an environment, ensure that the name consists of
 lowercase letters.
 
-+++azd env new+++
+!!azd env new!!
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image26.png)
@@ -278,14 +278,14 @@ incorrect.](./media/image27.png)
 8.  Run below command to provision the services to Azure, build your
     container.
 
-+++azd env set AZURE_RESOURCE_GROUP {Name of existing resource group}+++
+!!azd env set AZURE_RESOURCE_GROUP {Name of existing resource group}!!
 
 ![A screenshot of a computer code AI-generated content may be
 incorrect.](./media/image28.png)
 
 9.  Run azd up - This will provision Azure resources
 
-+++azd up+++
+!!azd up!!
 
 ![A screenshot of a computer code AI-generated content may be
 incorrect.](./media/image29.png)
