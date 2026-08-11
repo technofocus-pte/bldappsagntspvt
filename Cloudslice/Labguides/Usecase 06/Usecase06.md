@@ -1,4 +1,4 @@
-## Usecase 04- Safeguard your agents with AI Red Teaming Agent in Microsoft Foundry
+# Usecase 04- Safeguard your agents with AI Red Teaming Agent in Microsoft Foundry
 
 **Scenario**
 
