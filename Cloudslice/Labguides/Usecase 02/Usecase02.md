@@ -1,4 +1,4 @@
-# Usecase 02- Modernize your code with agents with Microsoft Foundry 
+# Usecase 01- Modernize your code with agents with Microsoft Foundry 
 
 **Scenario: Modernizing Large Data Estates for Contoso**
 
