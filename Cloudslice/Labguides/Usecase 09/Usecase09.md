@@ -1,4 +1,4 @@
-# Usecase 09: Deploying and Evaluating Fine-Tuned GPT Models in Azure AI Projects
+# Usecase 05: Deploying and Evaluating Fine-Tuned GPT Models in Azure AI Projects
 
 **Scenario**
 
