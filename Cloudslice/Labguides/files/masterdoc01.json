@@ -4,11 +4,11 @@
         "Language": "English",
         "Files": [
             {
-                "RawFilePath": "https://github.com/CloudLabsAI-Azure/bldappsagntspvt/blob/main/Cloudslice/Labguides/files/getting-started-page01.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/bldappsagntspvt/refs/heads/main/Cloudslice/Labguides/files/getting-started-page01.md",
                 "Order": 1
             },
             {
-                "RawFilePath": "https://github.com/CloudLabsAI-Azure/bldappsagntspvt/blob/main/Cloudslice/Labguides/Usecase%2002/Usecase02.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/bldappsagntspvt/refs/heads/main/Cloudslice/Labguides/Usecase%2002/Usecase02.md",
                 "Order": 2
             },
             {
