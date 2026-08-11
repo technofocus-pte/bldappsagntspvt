@@ -1,0 +1,21 @@
+[
+    {
+        "Name": "Agentic AI and data governance on Microsoft Azure",
+        "Language": "English",
+        "Files": [
+            {
+                "RawFilePath": "https://github.com/CloudLabsAI-Azure/bldappsagntspvt/blob/main/Cloudslice/Labguides/files/getting-started-page01.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://github.com/CloudLabsAI-Azure/bldappsagntspvt/blob/main/Cloudslice/Labguides/Usecase%2002/Usecase02.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/bldappsagntspvt/refs/heads/main/Cloudslice/Labguides/Usecase%2003/Usecase03.md",
+                "Order": 3
+            }
+        ]
+    }
+
+]
